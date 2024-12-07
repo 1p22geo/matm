@@ -1,0 +1,10 @@
+temp/*
+!temp/.keep
+
+pages/*
+!pages/.keep
+
+
+*.pdf
+*.jpg
+*.png
